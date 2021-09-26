@@ -1,7 +1,7 @@
 # devTipsInUnity
  some useful tricks
 
-Hiding or Disabling inspector properties
+Hiding or Disabling inspector properties :
 
 [Header("Resources")]
 public bool ConsumeResources = true;
